@@ -1,0 +1,7 @@
+This archive contains Flutter source files. To create Android/iOS folders ready for build, run 'flutter create .' in this folder or open in Android Studio.
+
+Steps:
+1) flutter pub get
+2) flutter create .
+3) flutter run
+4) flutter build apk --release
